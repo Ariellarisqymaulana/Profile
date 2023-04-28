@@ -17,4 +17,4 @@ def greet(name):
     print(f"Hello {name}! :wave:")
        
 greet("World")
-Check out my portfolio website :point_right: [Here](https://www.example.com) :point_left:
+Check out my portfolio website :point_right: [https://github.com/Ariellarisqymaulan]() :point_left:
